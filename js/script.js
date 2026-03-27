@@ -16,7 +16,7 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   // ---------- AUDIO PLAYER ----------
-  const audio = new Audio("designs-by-vighnesh.vercel.app\imgs\audio\Tum Se Hi.mp3");
+  const audio = new Audio("imgs/audio/Tum Se Hi.mp3");
   let isPlaying = false;
   let isPaused = false;
 
@@ -218,5 +218,3 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   }
 })();
-
-
